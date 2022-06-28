@@ -3,7 +3,7 @@ Tests a Yubikey push for validity
 
 This support library can test if a String is in fact a valid Yubikey push
 
-Use of the test library:
+Use example of the test library:
 ```
 import com.johanpmeert.YubikeyValidationClient;
 import java.io.IOException;
