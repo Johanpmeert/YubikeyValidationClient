@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YubikeyValidationClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YubikeyValidationClient_jar</output-path>
+    <root id="archive" name="YubikeyValidationClient.jar">
+      <element id="module-output" name="YubikeyValidationClient" />
+    </root>
+  </artifact>
+</component>
